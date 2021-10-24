@@ -1,8 +1,8 @@
 Project for game jam of school 21
 
 Controls:
-W   up
-S   bot
+W   up\n
+S   bot\n
 A   left
 D   right
 
