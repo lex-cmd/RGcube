@@ -13,7 +13,7 @@ D  -  right
 
 Name - RGcuBe
 For compiling project and play.
-1. Download Unreal Engine v4.26.2
+1. Download Unreal Engine v4.26.2 https://www.unrealengine.com/en-US/download
 2. Package project for mac
 3. Play
 
