@@ -1,10 +1,10 @@
 Project for game jam of school 21
 
 Controls:
-W   up\n
-S   bot\n
-A   left
-D   right
+W  -  up,
+S  -  bot,
+A  -  left,
+D  -  right
 
 RGcuBe
 For compiling project and play.
