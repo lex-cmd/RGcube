@@ -20,4 +20,13 @@ For compiling project and play.
 Devs:
 
 Fcarl
-Awhana
+Awhana!
+
+
+[Uploading Screen Shot 2021-10-25 at 12.11.15 PM.png…]()
+
+
+<img width="2560" alt="Screen Shot 2021-10-25 at 12 11 53 PM" src="https://user-images.githubusercontent.com/69564163/138668649-b07db8c9-ef56-4641-a191-33b5546c33ae.png">
+
+
+<img width="2560" alt="Screen Shot 2021-10-25 at 12 12 05 PM" src="https://user-images.githubusercontent.com/69564163/138668657-6efce586-609e-40ab-91a4-943994bd6417.png">
