@@ -21,7 +21,8 @@ For compiling project and play.
 Devs:
 
 Fcarl
-Awhana!
+
+Awhana
 
 <img width="2560" alt="Screen Shot 2021-10-25 at 12 11 15 PM" src="https://user-images.githubusercontent.com/69564163/138668751-724b8ffb-ad78-4471-8acd-95b0090f7573.png">
 
