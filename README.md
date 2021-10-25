@@ -3,6 +3,7 @@ Project for game jam of school 21
 System requirements: Mac OS
 
 Controls:
+
 W  -  up
 
 S  -  bot
