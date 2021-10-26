@@ -1,5 +1,11 @@
 Project for game jam of school 21
 
+RGcube
+
+Download game:
+
+https://drive.google.com/file/d/1zA1FXGAudS3CkC2DVVIjH79EpBgfnywV/view?usp=drivesdk
+
 System requirements: Mac OS
 
 Controls:
